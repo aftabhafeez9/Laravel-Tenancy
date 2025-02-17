@@ -1,4 +1,5 @@
 Step to Install
+
 git clone https://github.com/aftabhafeez9/Laravel-Tenancy.git
 
 composer install 
